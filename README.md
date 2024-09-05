@@ -1,16 +1,15 @@
-## Hi there 👋
+### Boas vinda ao meu peerfil 💝
 
-<!--
-**Oliprof/Oliprof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e Oliana
 
-Here are some ideas to get you started:
+- Estou estudando no [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo n linguagem Javascript
+- Utilizo este espaço para organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### voçe entrar em contato comigo 📫
+
+oliana@gmail.com
+
+oliana-02@Hotmail.com
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk_7p_eVGNTiAQKKqkJG4DcVwR-0525s8pvQ&s)
